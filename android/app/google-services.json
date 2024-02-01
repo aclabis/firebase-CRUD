@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204219485464",
+    "project_id": "formfielddone",
+    "storage_bucket": "formfielddone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204219485464:android:ad0c026c757e5dc969626d",
+        "android_client_info": {
+          "package_name": "com.example.formfield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPPWRUANyHU5gPpJrAYQwVYlvo46-7_o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
